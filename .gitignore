@@ -1,0 +1,6 @@
+
+*.bak
+.spyproject/config/codestyle.ini
+*.ini
+*.pyc
+config/conf.yaml
